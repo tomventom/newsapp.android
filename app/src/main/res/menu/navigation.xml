@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_news"
+        android:title="News"
+        android:icon="@drawable/ic_news_white"/>
+    <item
+        android:id="@+id/tab_headlines"
+        android:title="Headlines"
+        android:icon="@drawable/ic_headlines_white"/>
+    <item
+        android:id="@+id/tab_profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_personal_white"/>
+</menu>
